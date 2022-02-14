@@ -1,0 +1,49 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: #121212;
+  max-width: 800px;
+  margin: auto;
+}
+
+#title{
+  text-align: center;
+}
+
+main {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  color: #BB86FC;
+}
+
+/* #navbar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  background-color: #403e3e;
+  overflow: visible;
+  color: #BB86FC;
+  justify-content: center;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+.nav-link {
+  display: flex;
+  flex-direction: column;
+}
+@media screen and (max-width: 900px) {
+    body {
+      margin: 0 auto;
+      background-color: #424242;
+      overflow-x: hidden !important;
+      }
+    p {
+      font-size: 2vw;
+    }
+    #navbar {
+      display: none;
+    }
+  } */
